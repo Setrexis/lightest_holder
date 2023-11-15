@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><trustlevel-translation-agreements>
+<trustlevel-translation-agreement>
+<name>pof-to-eidas</name>
+<activation-date>Sat Aug 10 00:00:00 GMT 2019</activation-date>
+<creation-date>Sat Aug 10 00:00:00 GMT 2019</creation-date>
+<leaving-date>Mon Aug 10 00:00:00 GMT 2020</leaving-date>
+<duration>0</duration>
+<status>com.tta.commons.model.TrustScheme@7b43e163</status>
+<source>
+<scheme-name>federation.pof-demo.lightest.nlnetlabs.nl</scheme-name>
+<level>advanced</level>
+<provider>pof</provider>
+<params/>
+</source>
+<target>
+<scheme-name>eidas.pof-demo.lightest.nlnetlabs.nl</scheme-name>
+<level/>
+<provider>eu</provider>
+<params/>
+</target>
+</trustlevel-translation-agreement>
+</trustlevel-translation-agreements>
